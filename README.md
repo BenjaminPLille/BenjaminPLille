@@ -94,8 +94,6 @@ Development of reproducible workflows for biomedical data analysis, statistical 
 <img src="https://img.shields.io/badge/Seurat-4E79A7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scanpy-1F77B4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CellRanger-E74C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nextflow-23AA62?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Snakemake-000000?style=for-the-badge"/>
 </p>
 
 Routine use of modern bioinformatics frameworks for reproducible genomics, transcriptomics and single-cell analyses.
@@ -108,9 +106,6 @@ Routine use of modern bioinformatics frameworks for reproducible genomics, trans
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/HPC-555555?style=for-the-badge"/>
 </p>
 
 Version control, Linux environments, containerized applications, Oracle databases and high-performance computing for large-scale biomedical analyses.
