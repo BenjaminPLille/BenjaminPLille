@@ -201,41 +201,42 @@ These tools support my clinical and biological research questions rather than co
 
 ---
 
-## Scientific profiles
+## Scientific profiles and contact
 
-<p>
+<p align="center">
   <a href="https://orcid.org/0000-0002-0616-8694">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"
-         alt="ORCID">
+    <img
+      src="https://img.shields.io/static/v1?label=ORCID&amp;message=0000-0002-0616-8694&amp;color=A6CE39&amp;style=flat-square&amp;logo=orcid&amp;logoColor=white"
+      alt="ORCID">
   </a>
 
   <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Benjamin+Podvin">
-    <img src="https://img.shields.io/badge/PubMed-326599?style=flat-square&logo=pubmed&logoColor=white"
-         alt="PubMed">
+    <img
+      src="https://img.shields.io/static/v1?label=PubMed&amp;message=Publications&amp;color=326599&amp;style=flat-square"
+      alt="PubMed">
   </a>
 
-  <a href="https://pasteur-lille.fr/equipe-recherche/perstim-lab-tumor-persistence-and-immune-response-in-hematological-malignancies/">
-    <img src="https://img.shields.io/badge/PERSTIM%20Lab-008C95?style=flat-square"
-         alt="PERSTIM Lab">
+  <a href="https://www.researchgate.net/profile/Benjamin-Podvin?ev=hdr_xprf">
+    <img
+      src="https://img.shields.io/static/v1?label=ResearchGate&amp;message=Profile&amp;color=00CCBB&amp;style=flat-square&amp;logo=researchgate&amp;logoColor=white"
+      alt="ResearchGate">
   </a>
 
   <a href="https://fr.linkedin.com/in/benjamin-podvin-67b3b0125">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-         alt="LinkedIn">
+    <img
+      src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Profile&amp;color=0A66C2&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white"
+      alt="LinkedIn">
   </a>
 </p>
 
----
-
-## Contact
-
-<p>
+<p align="center">
   <a href="mailto:benjamin.podvin@chu-lille.fr">
-    <img src="https://img.shields.io/badge/Email-benjamin.podvin%40chu--lille.fr-D14836?style=flat-square&logo=gmail&logoColor=white"
-         alt="Email">
+    <img
+      src="https://img.shields.io/static/v1?label=Email&amp;message=benjamin.podvin%40chu-lille.fr&amp;color=D14836&amp;style=flat-square"
+      alt="Email">
   </a>
 
-  <img src="https://img.shields.io/badge/Lille-France-4285F4?style=flat-square&logo=googlemaps&logoColor=white"
-       alt="Lille, France">
+  <img
+    src="https://img.shields.io/static/v1?label=Location&amp;message=Lille%2C%20France&amp;color=4C566A&amp;style=flat-square"
+    alt="Lille, France">
 </p>
-
