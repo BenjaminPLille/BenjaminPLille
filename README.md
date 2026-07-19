@@ -156,35 +156,10 @@ These approaches are used to answer biological and clinical questions rather tha
 ## Data analysis and computational tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
-       alt="R"
-       title="R"
-       width="38"
-       height="38">
-
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="Python"
-       title="Python"
-       width="38"
-       height="38">
-
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       alt="Git"
-       title="Git"
-       width="38"
-       height="38">
-
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       alt="GitHub"
-       title="GitHub"
-       width="38"
-       height="38">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 I use computational tools to support biological interpretation, statistical analysis, data visualization and reproducible research.
