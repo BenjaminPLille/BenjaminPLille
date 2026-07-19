@@ -201,42 +201,11 @@ These tools support my clinical and biological research questions rather than co
 
 ---
 
-## Scientific profiles and contact
+## 🔗 Scientific profiles and contact
 
-<p align="center">
-  <a href="https://orcid.org/0000-0002-0616-8694">
-    <img
-      src="https://img.shields.io/static/v1?label=ORCID&amp;message=0000-0002-0616-8694&amp;color=A6CE39&amp;style=flat-square&amp;logo=orcid&amp;logoColor=white"
-      alt="ORCID">
-  </a>
-
-  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Benjamin+Podvin">
-    <img
-      src="https://img.shields.io/static/v1?label=PubMed&amp;message=Publications&amp;color=326599&amp;style=flat-square"
-      alt="PubMed">
-  </a>
-
-  <a href="https://www.researchgate.net/profile/Benjamin-Podvin?ev=hdr_xprf">
-    <img
-      src="https://img.shields.io/static/v1?label=ResearchGate&amp;message=Profile&amp;color=00CCBB&amp;style=flat-square&amp;logo=researchgate&amp;logoColor=white"
-      alt="ResearchGate">
-  </a>
-
-  <a href="https://fr.linkedin.com/in/benjamin-podvin-67b3b0125">
-    <img
-      src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Profile&amp;color=0A66C2&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white"
-      alt="LinkedIn">
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:benjamin.podvin@chu-lille.fr">
-    <img
-      src="https://img.shields.io/static/v1?label=Email&amp;message=benjamin.podvin%40chu-lille.fr&amp;color=D14836&amp;style=flat-square"
-      alt="Email">
-  </a>
-
-  <img
-    src="https://img.shields.io/static/v1?label=Location&amp;message=Lille%2C%20France&amp;color=4C566A&amp;style=flat-square"
-    alt="Lille, France">
-</p>
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0616-8694)
+[![PubMed](https://img.shields.io/badge/PubMed-326599?style=flat-square&logo=pubmed&logoColor=white)](https://pubmed.ncbi.nlm.nih.gov/?term=Benjamin+Podvin)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Benjamin-Podvin?ev=hdr_xprf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/benjamin-podvin-67b3b0125)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:benjamin.podvin@chu-lille.fr)
+[![Location](https://img.shields.io/badge/LILLE%2C%20FRANCE-4C566A?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Lille)
