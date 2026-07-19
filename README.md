@@ -3,39 +3,21 @@
 ### Medical Biologist and Academic Researcher in Hematology
 
 <p align="center">
-  <a href="https://www.chu-lille.fr/">
-    <img src="./assets/CHU_Lille_Logo.png"
-         alt="CHU Lille"
-         height="95">
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.univ-lille.fr/">
-    <img src="./assets/ULille.sans.baseline-Horizontal-CMJN-Noir.png"
-         alt="University of Lille"
-         width="240">
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://pasteur-lille.fr/equipe-recherche/perstim-lab-tumor-persistence-and-immune-response-in-hematological-malignancies/">
-    <img src="./assets/logo%20IPL%20(1).jpeg"
-         alt="Institut Pasteur de Lille"
-         height="75">
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.oncolille.eu/">
-    <img src="./assets/logoONCOLILLE.png"
-         alt="ONCOLille"
-         height="75">
-  </a>
+  <img
+    src="./assets/institutional-logos.png"
+    alt="CHU Lille, University of Lille, Institut Pasteur de Lille and ONCOLille"
+    width="820"
+  >
 </p>
 
 <p align="center">
-  CHU Lille · University of Lille · Institut Pasteur de Lille · ONCOLille
+  <a href="https://www.chu-lille.fr/">CHU Lille</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.univ-lille.fr/">University of Lille</a>
+  &nbsp;·&nbsp;
+  <a href="https://pasteur-lille.fr/">Institut Pasteur de Lille</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.oncolille.eu/">ONCOLille</a>
 </p>
 
 <p align="center">
