@@ -47,10 +47,9 @@ I am a European Hematology Exam certificate holder.
 My clinical activity focuses on the integrated diagnosis of hematologic malignancies using:
 
 - Peripheral blood and bone marrow cytomorphology
-- Flow cytometry and immunophenotyping
+- Flow cytometry 
 - Molecular hematology
 - Cytogenetic and genomic interpretation
-- Integrated biological and clinical data
 - Diagnostic algorithm development
 
 ### Multiple myeloma
@@ -60,11 +59,9 @@ My research focuses on the biological heterogeneity of multiple myeloma and its 
 Current topics include:
 
 - Circulating tumor cells and liquid biopsy
-- Tumor dissemination outside the bone marrow
 - BCMA expression and antigen escape
 - `TNFRSF17` genomic alterations
 - Resistance to BCMA-directed immunotherapies
-- Retreatment after CAR T-cell and bispecific antibody therapy
 - Immune remodeling during bispecific antibody treatment
 - Biomarkers derived from genomic, transcriptomic and proteomic data
 
@@ -72,7 +69,7 @@ Current topics include:
 
 I study unusual molecular and biological presentations of myeloid malignancies, with a particular interest in:
 
-- `e1a2` / p190 `BCR::ABL1` chronic myeloid leukemia
+- e1a2 `BCR::ABL1` chronic myeloid leukemia
 - BCR::ABL1 breakpoint and junction architecture
 - Co-mutation profiles and clonal persistence
 - Clonal evolution and molecular relapse
@@ -93,7 +90,7 @@ Study of circulating plasma cells as biomarkers of tumor dissemination, spatial 
 
 This work explores whether peripheral blood can provide a representative and minimally invasive view of multiple myeloma biology.
 
-### p190 BCR::ABL1 chronic myeloid leukemia
+### e1a2 BCR::ABL1 chronic myeloid leukemia
 
 Characterization of the clinical, cytological and molecular features of chronic myeloid leukemia carrying the `e1a2` BCR::ABL1 transcript.
 
@@ -117,21 +114,13 @@ Development and evaluation of diagnostic approaches combining morphology, flow c
 
 - Peripheral blood and bone marrow cytology
 - Flow cytometry
-- Immunophenotyping
-- Plasma-cell characterization
-- Circulating tumor-cell detection
-- Integrated hematologic diagnosis
+- Integrated molecular hematologic diagnosis
 
 ### Molecular and genomic methods
 
-- Molecular diagnostics
-- Quantitative PCR / ddPCR
-- Targeted DNA sequencing
-- Whole-genome sequencing
-- Bulk RNA sequencing
+- Molecular diagnostics : WGS, WES, RNA-sequencing, qPCR, ddPCR
 - Single-cell RNA sequencing
 - Single-cell DNA sequencing
-- Mission Bio Tapestri analyses
 - Variant interpretation
 - Copy-number alteration analysis
 - Structural variant analysis
@@ -177,6 +166,7 @@ My work notably includes:
 - Version control and collaborative research using Git and GitHub
 
 These tools support my clinical and biological research questions rather than constituting a standalone bioinformatics activity.
+
 ---
 
 ## Selected publications
