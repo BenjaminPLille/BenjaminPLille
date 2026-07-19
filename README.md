@@ -75,10 +75,6 @@ I study unusual molecular and biological presentations of myeloid malignancies, 
 - `e1a2` / p190 `BCR::ABL1` chronic myeloid leukemia
 - BCR::ABL1 breakpoint and junction architecture
 - Co-mutation profiles and clonal persistence
-- Chronic myelomonocytic leukemia
-- Monocyte subset-based diagnostic approaches
-- Myelodysplastic neoplasms
-- Acute myeloid leukemia
 - Clonal evolution and molecular relapse
 
 ---
@@ -109,7 +105,7 @@ Study of immune and inflammatory remodeling during treatment with bispecific ant
 
 This work integrates cellular, genomic, transcriptomic and proteomic measurements to identify determinants of deep and sustained response.
 
-### Integrated diagnosis of myeloid neoplasms
+### Integrated diagnosis of hematological diseases
 
 Development and evaluation of diagnostic approaches combining morphology, flow cytometry, automated hematology parameters and molecular findings.
 
@@ -124,13 +120,12 @@ Development and evaluation of diagnostic approaches combining morphology, flow c
 - Immunophenotyping
 - Plasma-cell characterization
 - Circulating tumor-cell detection
-- Monocyte subset analysis
 - Integrated hematologic diagnosis
 
 ### Molecular and genomic methods
 
 - Molecular diagnostics
-- Quantitative PCR
+- Quantitative PCR / ddPCR
 - Targeted DNA sequencing
 - Whole-genome sequencing
 - Bulk RNA sequencing
@@ -160,22 +155,53 @@ These approaches are used to answer biological and clinical questions rather tha
 
 ## Data analysis and computational tools
 
-I use computational tools to support biological interpretation, statistical analysis and the development of reproducible research workflows.
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
+       alt="R"
+       title="R"
+       width="38"
+       height="38">
 
-Main tools and applications include:
+  &nbsp;&nbsp;
 
-- R for statistical analysis and data visualization
-- Python for data processing and workflow development
-- Git and GitHub for version control and collaborative research
-- Genomic variant annotation and interpretation
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python"
+       title="Python"
+       width="38"
+       height="38">
+
+  &nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+       alt="Git"
+       title="Git"
+       width="38"
+       height="38">
+
+  &nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       alt="GitHub"
+       title="GitHub"
+       width="38"
+       height="38">
+</p>
+
+I use computational tools to support biological interpretation, statistical analysis, data visualization and reproducible research.
+
+My work notably includes:
+
+- Statistical analysis and publication-ready visualization using R
+- Data processing and workflow development using Python
+- Genomic variant annotation and biological interpretation
+- Copy-number, structural variant and junction sequence analyses
 - Bulk and single-cell transcriptomic analyses
-- Single-cell DNA-seq analysis
-- Copy-number and structural variant analyses
-- Junction sequence analysis
-- Multi-omics data integration
-- Biomarker discovery
-- Survival analysis and clinical data visualization
+- Single-cell DNA sequencing data analysis
+- Integration of genomic, transcriptomic, proteomic and clinical data
+- Biomarker discovery and survival analyses
+- Version control and collaborative research using Git and GitHub
 
+These tools support my clinical and biological research questions rather than constituting a standalone bioinformatics activity.
 ---
 
 ## Selected publications
