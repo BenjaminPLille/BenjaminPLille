@@ -1,6 +1,6 @@
 # Benjamin Podvin | PharmD PhD Student
 
-### Medical Biologist & Academic Researcher in Hematology
+### Clinical Scientist & Academic Researcher in Hematology
 
 CHU Lille · University of Lille · PERSTIM Lab
 
