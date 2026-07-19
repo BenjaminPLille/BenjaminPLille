@@ -1,208 +1,244 @@
-# Benjamin Podvin | PharmD PhD Student
+# Benjamin Podvin | PharmD, PhD Candidate
 
-### Clinical Scientist & Academic Researcher in Hematology
+### Medical Biologist and Academic Researcher in Hematology
 
-CHU Lille · University of Lille · PERSTIM Lab
+<p align="center">
+  <a href="https://www.chu-lille.fr/">
+    <img src="./assets/CHU_Lille_Logo.png"
+         alt="CHU Lille"
+         height="95">
+  </a>
 
-<p>
-<img src="https://img.shields.io/badge/Medical%20Biology-Hematology-8B0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/EHA%20Exam-Certificate%20Holder-9B1B30?style=flat-square"/>
-<img src="https://img.shields.io/badge/Location-Lille%2C%20France-4C566A?style=flat-square"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.univ-lille.fr/">
+    <img src="./assets/ULille.sans.baseline-Horizontal-CMJN-Noir.png"
+         alt="University of Lille"
+         width="240">
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://pasteur-lille.fr/equipe-recherche/perstim-lab-tumor-persistence-and-immune-response-in-hematological-malignancies/">
+    <img src="./assets/logo%20IPL%20(1).jpeg"
+         alt="Institut Pasteur de Lille"
+         height="75">
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.oncolille.eu/">
+    <img src="./assets/logoONCOLILLE.png"
+         alt="ONCOLille"
+         height="75">
+  </a>
 </p>
 
-I am a medical biologist and academic researcher specializing in hematology.
+<p align="center">
+  CHU Lille · University of Lille · Institut Pasteur de Lille · ONCOLille
+</p>
 
-My work starts from clinical and laboratory questions and combines cytomorphology, flow cytometry, molecular biology and genomic approaches to investigate the biology of hematologic malignancies.
-
-My main research interests are multiple myeloma, myeloid neoplasms and the development of clinically relevant biomarkers.
+<p align="center">
+  <a href="https://pasteur-lille.fr/equipe-recherche/perstim-lab-tumor-persistence-and-immune-response-in-hematological-malignancies/">
+    PERSTIM Lab — Tumor Persistence and Immune Response in Hematological Malignancies
+  </a>
+</p>
 
 ---
 
-## Research focus
+## About me
 
-### Multiple myeloma and immunotherapy
+I am a medical biologist and assistant professor in hematology at Lille University Hospital and the University of Lille.
+
+My work starts from clinical and laboratory observations and combines cytomorphology, flow cytometry, molecular biology and genomic approaches to investigate the biology of hematologic malignancies.
+
+My main research interests are multiple myeloma, myeloid neoplasms, molecular hematology and the development of clinically relevant biomarkers.
+
+I am a European Hematology Exam certificate holder.
+
+---
+
+## Clinical and scientific expertise
+
+### Diagnostic hematology
+
+My clinical activity focuses on the integrated diagnosis of hematologic malignancies using:
+
+- Peripheral blood and bone marrow cytomorphology
+- Flow cytometry and immunophenotyping
+- Molecular hematology
+- Cytogenetic and genomic interpretation
+- Integrated biological and clinical data
+- Diagnostic algorithm development
+
+### Multiple myeloma
 
 My research focuses on the biological heterogeneity of multiple myeloma and its evolution under therapeutic pressure.
 
 Current topics include:
 
-* Circulating tumor cells and liquid biopsy
-* Tumor dissemination outside the bone marrow
-* BCMA expression and antigen escape
-* `TNFRSF17` genomic alterations
-* Resistance and retreatment after BCMA-directed immunotherapies
-* Immune remodeling during bispecific antibody therapy
-* Biomarkers derived from genomic, transcriptomic and proteomic data
+- Circulating tumor cells and liquid biopsy
+- Tumor dissemination outside the bone marrow
+- BCMA expression and antigen escape
+- `TNFRSF17` genomic alterations
+- Resistance to BCMA-directed immunotherapies
+- Retreatment after CAR T-cell and bispecific antibody therapy
+- Immune remodeling during bispecific antibody treatment
+- Biomarkers derived from genomic, transcriptomic and proteomic data
 
-### Myeloid neoplasms and molecular hematology
+### Myeloid neoplasms
 
 I study unusual molecular and biological presentations of myeloid malignancies, with a particular interest in:
 
-* `e1a2` / p190 `BCR::ABL1` chronic myeloid leukemia
-* BCR::ABL1 breakpoint and junction architecture
-* Co-mutation profiles and clonal persistence
-* Chronic myelomonocytic leukemia
-* Monocyte subset and automated hematology-based diagnostic approaches
-* Myelodysplastic neoplasms
-* Molecular evolution in acute myeloid leukemia
-
-### Diagnostic hematology
-
-I am interested in the integration of classical and molecular laboratory findings for the diagnosis and characterization of hematologic malignancies.
-
-This includes:
-
-* Peripheral blood and bone marrow cytomorphology
-* Flow cytometry and immunophenotyping
-* Molecular diagnostics
-* Cytogenetic and genomic interpretation
-* Integrated diagnostic algorithms
-* Translation of research findings into laboratory practice
+- `e1a2` / p190 `BCR::ABL1` chronic myeloid leukemia
+- BCR::ABL1 breakpoint and junction architecture
+- Co-mutation profiles and clonal persistence
+- Chronic myelomonocytic leukemia
+- Monocyte subset-based diagnostic approaches
+- Myelodysplastic neoplasms
+- Acute myeloid leukemia
+- Clonal evolution and molecular relapse
 
 ---
 
-## Research questions
+## Current research projects
 
-Some of the biological questions currently guiding my work are:
+### BCMA genomic alterations and therapeutic resistance
 
-* How do genomic alterations of BCMA influence resistance and retreatment strategies in multiple myeloma?
-* Can circulating tumor cells provide a reliable picture of spatial and clonal tumor heterogeneity?
-* What distinguishes p190 `BCR::ABL1` chronic myeloid leukemia from classical p210 disease?
-* How does treatment reshape the immune and inflammatory environment in multiple myeloma?
-* How can morphology, flow cytometry and molecular data be combined to improve the diagnosis of myeloid neoplasms?
+Genomic and functional characterization of `TNFRSF17` alterations associated with resistance to BCMA-directed immunotherapies.
 
----
+The objective is to understand how BCMA alterations affect therapeutic binding and whether genomic profiling can help guide subsequent treatment selection.
 
-## Biological and laboratory expertise
+### Circulating tumor cells in multiple myeloma
 
-<p>
-<img src="https://img.shields.io/badge/Diagnostic%20Hematology-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cytomorphology-A61B29?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flow%20Cytometry-3A6EA5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Molecular%20Hematology-6A3D9A?style=for-the-badge"/>
-</p>
+Study of circulating plasma cells as biomarkers of tumor dissemination, spatial heterogeneity, prognosis and treatment response.
 
-<p>
-<img src="https://img.shields.io/badge/Multiple%20Myeloma-7B2D8E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Chronic%20Myeloid%20Leukemia-9C3D54?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CMML-805A46?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AML%20%26%20MDS-4F5D75?style=for-the-badge"/>
-</p>
+This work explores whether peripheral blood can provide a representative and minimally invasive view of multiple myeloma biology.
 
-My clinical and research work relies on the integrated interpretation of morphology, immunophenotyping, molecular genetics and clinical information.
+### p190 BCR::ABL1 chronic myeloid leukemia
+
+Characterization of the clinical, cytological and molecular features of chronic myeloid leukemia carrying the `e1a2` BCR::ABL1 transcript.
+
+This project includes breakpoint and junction sequence analyses, associated mutation profiles, single-cell analyses and longitudinal clonal dynamics.
+
+### Immune response to multiple myeloma therapies
+
+Study of immune and inflammatory remodeling during treatment with bispecific antibodies and other immunotherapies.
+
+This work integrates cellular, genomic, transcriptomic and proteomic measurements to identify determinants of deep and sustained response.
+
+### Integrated diagnosis of myeloid neoplasms
+
+Development and evaluation of diagnostic approaches combining morphology, flow cytometry, automated hematology parameters and molecular findings.
 
 ---
 
 ## Methods used in my research
 
-### Cellular and molecular approaches
+### Cellular and diagnostic methods
 
-<p>
-<img src="https://img.shields.io/badge/Bone%20Marrow%20Cytology-A61B29?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Immunophenotyping-3A6EA5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Molecular%20Diagnostics-6A3D9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Circulating%20Tumor%20Cells-7B2D8E?style=for-the-badge"/>
-</p>
+- Peripheral blood and bone marrow cytology
+- Flow cytometry
+- Immunophenotyping
+- Plasma-cell characterization
+- Circulating tumor-cell detection
+- Monocyte subset analysis
+- Integrated hematologic diagnosis
 
-### Sequencing and omics
+### Molecular and genomic methods
 
-<p>
-<img src="https://img.shields.io/badge/Targeted%20DNA--seq-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Whole--Genome%20Sequencing-5B4B8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bulk%20RNA--seq-3498DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Single--Cell%20RNA--seq-1ABC9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Single--Cell%20DNA--seq-168A82?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Olink%20Proteomics-5E35B1?style=for-the-badge"/>
-</p>
+- Molecular diagnostics
+- Quantitative PCR
+- Targeted DNA sequencing
+- Whole-genome sequencing
+- Bulk RNA sequencing
+- Single-cell RNA sequencing
+- Single-cell DNA sequencing
+- Mission Bio Tapestri analyses
+- Variant interpretation
+- Copy-number alteration analysis
+- Structural variant analysis
+- Breakpoint and junction reconstruction
+- Fusion transcript characterization
+- Clonal evolution analysis
+- Mutational signature analysis
+- Neoantigen prediction
 
-### Genomic interpretation
+### Proteomic and immune profiling
 
-<p>
-<img src="https://img.shields.io/badge/Variant%20Interpretation-2C3E50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Copy--Number%20Alterations-C0392B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Structural%20Variants-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BCR%3A%3AABL1%20Junctions-34495E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clonal%20Evolution-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Neoantigen%20Prediction-27805B?style=for-the-badge"/>
-</p>
+- Olink proteomics
+- Soluble biomarker measurement
+- Immune-cell profiling
+- Longitudinal biomarker analyses
+- Integration of cellular and molecular data
 
 These approaches are used to answer biological and clinical questions rather than as standalone technical objectives.
 
 ---
 
-## Selected research
+## Data analysis and computational tools
 
-### BCMA genomic alterations and therapeutic resistance
+I use computational tools to support biological interpretation, statistical analysis and the development of reproducible research workflows.
 
-Genomic and functional characterization of `TNFRSF17` alterations associated with resistance to BCMA-directed immunotherapies, with the aim of understanding whether molecular profiling can guide subsequent treatment selection.
+Main tools and applications include:
 
-### Circulating tumor cells in multiple myeloma
-
-Study of circulating plasma cells as biomarkers of tumor dissemination, disease heterogeneity, prognosis and treatment response.
-
-### p190 BCR::ABL1 chronic myeloid leukemia
-
-Characterization of the clinical, cytological and molecular features of chronic myeloid leukemia carrying the `e1a2` BCR::ABL1 transcript, including junction sequences, associated mutations and clonal dynamics.
-
-### Integrated diagnosis of myeloid neoplasms
-
-Development and evaluation of diagnostic approaches combining cytomorphology, flow cytometry, automated hematology parameters and molecular findings.
+- R for statistical analysis and data visualization
+- Python for data processing and workflow development
+- Git and GitHub for version control and collaborative research
+- Genomic variant annotation and interpretation
+- Bulk and single-cell transcriptomic analyses
+- Single-cell DNA-seq analysis
+- Copy-number and structural variant analyses
+- Junction sequence analysis
+- Multi-omics data integration
+- Biomarker discovery
+- Survival analysis and clinical data visualization
 
 ---
 
 ## Selected publications
 
-* [TNFRSF17 genomic profiling guides retreatment with alternative BCMA-directed immunotherapies in multiple myeloma](https://pubmed.ncbi.nlm.nih.gov/42418388/) — *Blood Advances*, 2026
+### Multiple myeloma
 
-* [Circulating Tumor Cells in Multiple Myeloma: From Peripheral Clues to Central Insights](https://pubmed.ncbi.nlm.nih.gov/41974595/) — *American Journal of Hematology*, 2026
+- [TNFRSF17 genomic profiling guides retreatment with alternative BCMA-directed immunotherapies in multiple myeloma](https://pubmed.ncbi.nlm.nih.gov/42418388/)  
+  Blood Advances, 2026
 
-* [NPM1 mutation subtype switch in acute myeloid leukemia](https://pubmed.ncbi.nlm.nih.gov/40109189/) — *Haematologica*, 2025
+- [Circulating Tumor Cells in Multiple Myeloma: From Peripheral Clues to Central Insights](https://pubmed.ncbi.nlm.nih.gov/41974595/)  
+  American Journal of Hematology, 2026
 
-* [A New Diagnostic Approach for Myelodysplastic Neoplasms Using a Combination of Scores Based on Flow Cytometry and Automated Hematology Sysmex XN Analyzers](https://pubmed.ncbi.nlm.nih.gov/39658949/) — *International Journal of Laboratory Hematology*, 2025
+### Molecular and diagnostic hematology
 
-* [A new combination of monocytic scores to support diagnosis of chronic myelomonocytic leukemia according to novel classifications](https://pubmed.ncbi.nlm.nih.gov/36967295/) — *International Journal of Laboratory Hematology*, 2023
+- [NPM1 mutation subtype switch in acute myeloid leukemia](https://pubmed.ncbi.nlm.nih.gov/40109189/)  
+  Haematologica, 2025
 
-* [Chronic myeloid leukaemia presenting with monocytosis](https://pubmed.ncbi.nlm.nih.gov/34409591/) — *British Journal of Haematology*, 2022
+- [A New Diagnostic Approach for Myelodysplastic Neoplasms Using a Combination of Scores Based on Flow Cytometry and Automated Hematology Sysmex XN Analyzers](https://pubmed.ncbi.nlm.nih.gov/39658949/)  
+  International Journal of Laboratory Hematology, 2025
 
-* [Subclonal acquisition of a BCR::ABL1 fusion in a chronic myelomonocytic leukemia](https://pubmed.ncbi.nlm.nih.gov/35562492/) — *Annals of Hematology*, 2022
+- [Oligomonocytic chronic myelomonocytic leukemia is eligible to MDS-score and not Mono-dysplasia score](https://pubmed.ncbi.nlm.nih.gov/38644333/)  
+  International Journal of Laboratory Hematology, 2024
 
----
+- [A new combination of monocytic scores to support diagnosis of chronic myelomonocytic leukemia according to novel classifications](https://pubmed.ncbi.nlm.nih.gov/36967295/)  
+  International Journal of Laboratory Hematology, 2023
 
-## Computational tools
+- [Chronic myeloid leukaemia presenting with monocytosis](https://pubmed.ncbi.nlm.nih.gov/34409591/)  
+  British Journal of Haematology, 2022
 
-<p>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-I use computational tools for statistical analysis, data visualization, genomic interpretation and the development of reproducible research workflows.
-
-They support my biological and clinical research but are not the primary focus of my work.
+- [Subclonal acquisition of a BCR::ABL1 fusion in a chronic myelomonocytic leukemia](https://pubmed.ncbi.nlm.nih.gov/35562492/)  
+  Annals of Hematology, 2022
 
 ---
 
 ## Scientific profiles
 
-<p>
-<a href="https://orcid.org/0000-0002-0616-8694">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Benjamin+Podvin">
-<img src="https://img.shields.io/badge/PubMed-326599?style=for-the-badge&logo=pubmed&logoColor=white"/>
-</a>
-
-<a href="YOUR_GOOGLE_SCHOLAR_URL">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-</a>
-</p>
+- [ORCID](https://orcid.org/0000-0002-0616-8694)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Benjamin+Podvin)
+- [PERSTIM Lab](https://pasteur-lille.fr/equipe-recherche/perstim-lab-tumor-persistence-and-immune-response-in-hematological-malignancies/)
+- [LinkedIn](https://fr.linkedin.com/in/benjamin-podvin-67b3b0125)
 
 ---
 
 ## Contact
 
-📍 Lille, France
-📧 [benjamin.podvin@chu-lille.fr](mailto:benjamin.podvin@chu-lille.fr)
+Lille, France  
+[benjamin.podvin@chu-lille.fr](mailto:benjamin.podvin@chu-lille.fr)
 
