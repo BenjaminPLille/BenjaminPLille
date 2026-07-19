@@ -207,3 +207,4 @@ These tools support my clinical and biological research questions rather than co
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Benjamin-Podvin?ev=hdr_xprf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/benjamin-podvin-67b3b0125)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:benjamin.podvin@chu-lille.fr)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/benjamin_podvin)
