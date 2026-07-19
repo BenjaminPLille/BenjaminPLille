@@ -1,4 +1,4 @@
-# Benjamin Podvin | PharmD, PhD Candidate
+# Benjamin Podvin | PharmD, PhD Student
 
 ### Medical Biologist and Academic Researcher in Hematology
 
