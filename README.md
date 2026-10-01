@@ -181,6 +181,9 @@ These tools support my clinical and biological research questions rather than co
 
 ### Molecular and diagnostic hematology
 
+- [Clonal and genomic determinants of e1a2 BCR::ABL1 chronic myeloid leukemia: A Fi-LMC study](https://pubmed.ncbi.nlm.nih.gov/42549430/)  
+  Hemasphere, 2026
+
 - [NPM1 mutation subtype switch in acute myeloid leukemia](https://pubmed.ncbi.nlm.nih.gov/40109189/)  
   Haematologica, 2025
 
